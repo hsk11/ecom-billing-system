@@ -178,5 +178,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Developed by Harpal Singh (HSK11), a specialist in e-commerce solutions and scalable architecture.
 
 ---
-
-*This README is part of the Cart Billing System documentation. For more information, please contact the development team.*
