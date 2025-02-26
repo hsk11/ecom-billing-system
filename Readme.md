@@ -9,7 +9,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Welcome to **Plates Co's Cart Billing Service** - a robust, flexible solution designed to handle complex pricing scenarios including promotions, discounts, and delivery charges. This proof-of-concept demonstrates a modern approach to e-commerce billing systems with a focus on scalability and configurability.
+Welcome to **Cart Billing Service** - a robust, flexible solution designed to handle complex pricing scenarios including promotions, discounts, and delivery charges. This proof-of-concept demonstrates a modern approach to e-commerce billing systems with a focus on scalability and configurability.
 
 ## ✨ Key Features
 
